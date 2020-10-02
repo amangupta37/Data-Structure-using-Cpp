@@ -1,6 +1,5 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
-
 int main() {
 	// your code goes here
 
@@ -20,7 +19,7 @@ int main() {
   }
 
   cout<<"Sum of the above number is "<<sum<<"\n";
-  int res = sum/n;
+  double res = (sum*1.0)/n;
 
   cout<<"Mean of the given the entered number is  "<<res;
 
