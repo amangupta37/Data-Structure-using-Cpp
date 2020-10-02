@@ -2,6 +2,6 @@
 
 
 
-|  No of Days   |     Project Name                                                       |Short Description                  |
+|  Number of Days   |     Project Name                                                       |Short Description of project                 |
 |---------------|:-----------------------------------------------------------------------|-----------------------------------|
 
